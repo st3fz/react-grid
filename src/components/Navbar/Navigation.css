@@ -1,0 +1,14 @@
+.nav-item {
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px 8px 20px; 
+}
+
+.container {
+    width: 100%;
+}
+
+.bg-custom {
+    background-color: rgb(154, 166, 218);
+    width: 100%;
+}
